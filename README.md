@@ -12,6 +12,7 @@ Cross Validation with:
 -L1 Penalty 
 -L2 Penalty 
 -No Penalty
+
 The F1, Precision, and Recall scores are shown on all tests above.
 
 Just click run-all-cells to run the whole document, no configuration needed if the document is run in google collab.
