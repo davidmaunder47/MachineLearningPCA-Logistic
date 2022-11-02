@@ -1,6 +1,7 @@
 # MachineLearningPCA-Logistic
 
 This google document file is used to determine whether a headline will indicate if the article is from a fake or real website. I have previously conducted similar classification tests using the naive bayes and K-Nearest Neighbour approach. In this document I have determined whether an article is real or fake by using the logistic regression algorithm. Furthermore, we will be using the Logistic regression algorithm in combination with:
+Markup:
 •	With an L1 penalty
 •	With an L2 Penalty 
 •	With no Penalty 
