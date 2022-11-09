@@ -3,16 +3,16 @@ The PCa-Logistic Regression google document file is used to determine whether a 
         Neighbour approach. In this document I have determined whether an article is real or fake by using the logistic regression algorithm.
         Furthermore, we will be using the Logistic regression algorithm in combination with:
 
-             an L1 Penalty </li>
+             an L1 Penalty 
 
-            an L2 Penalty</li>
-            no Penalty</li>
-            a 100-Principal Component analysis reduction   </li>
-            a 100-Principal Component analysis reduction  </li>
+            an L2 Penalty
+            no Penalty
+            a 100-Principal Component analysis reduction  
+            a 100-Principal Component analysis reduction  
              Cross Validation with:
-                     an L1 Penalty </li>
-                     an L2 Penalty</li>
-                    no Penalty</li>
+                     an L1 Penalty
+                     an L2 Penalty
+                    no Penalty
 
       
 The F1, Precision, and Recall scores are shown on all tests above.
