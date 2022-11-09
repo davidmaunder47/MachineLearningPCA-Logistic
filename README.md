@@ -1,18 +1,15 @@
-The PCa-Logistic Regression google document file is used to determine whether a headline will indicate if the 
-        article is from a fake or real website. I have previously conducted similar classification tests using the Naive Bayes and K-Nearest
-        Neighbour approach. In this document I have determined whether an article is real or fake by using the logistic regression algorithm.
-        Furthermore, we will be using the Logistic regression algorithm in combination with:
+The PCa-Logistic Regression google document file is used to determine whether a headline will indicate if the article is from a fake or real website. I have previously conducted similar classification tests using the Naive Bayes and K-Nearest Neighbour approach. In this document I have determined whether an article is real or fake by using the logistic regression algorithm. Furthermore, we will be using the Logistic regression algorithm in combination with:
 
-             an L1 Penalty 
+     an L1 Penalty 
 
-            an L2 Penalty
+    an L2 Penalty
+    no Penalty
+    a 100-Principal Component analysis reduction  
+    a 100-Principal Component analysis reduction  
+     Cross Validation with:
+             an L1 Penalty
+             an L2 Penalty
             no Penalty
-            a 100-Principal Component analysis reduction  
-            a 100-Principal Component analysis reduction  
-             Cross Validation with:
-                     an L1 Penalty
-                     an L2 Penalty
-                    no Penalty
 
       
 The F1, Precision, and Recall scores are shown on all tests above.
